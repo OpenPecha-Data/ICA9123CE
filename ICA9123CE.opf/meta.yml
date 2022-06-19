@@ -1,0 +1,56 @@
+id: ICA9123CE
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T17:47:50.925002'
+last_modified: '2022-06-19T17:47:50.925007'
+parser: null
+source_metadata:
+  title: Testament Series
+  language: de
+  description: 'The following texts are currently available as part of our Testament
+    series:'
+  volume:
+    f9313:
+      title: The Noble Sūtra Teaching the Eleven Perceptions
+      base_file: f9313.txt
+      order: 1
+      parent: Advice
+    fCC44:
+      title: 'Final Words: The Essential Advice'
+      base_file: fCC44.txt
+      order: 2
+      parent: Advice
+    f8B8F:
+      title: The Final Testament of Yukhok Chatralwa as Transmitted to Lama Rigdzin
+        Nyima
+      base_file: f8B8F.txt
+      order: 3
+      parent: Advice
+    f272A:
+      title: The Last Testament of Katok Dampa Deshek
+      base_file: f272A.txt
+      order: 4
+      parent: Aspiration Prayers
+    f3338:
+      title: On the Final Words of Orgyen Tendzin Norbu
+      base_file: f3338.txt
+      order: 5
+      parent: Commentary
+    f0A38:
+      title: The Testament Prayer to Orgyen Rinpoche
+      base_file: f0A38.txt
+      order: 6
+      parent: Prayers
+    fA76C:
+      title: Words Spoken at the Moment of Passing
+      base_file: fA76C.txt
+      order: 7
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
